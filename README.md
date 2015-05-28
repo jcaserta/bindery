@@ -2,7 +2,7 @@
 
 Developed as part of [HTML Output](https://github.com/orgs/risd-gd/teams/html-output)
 
-Documentation coming soon! In the mean time see the brief [description here](http://risd-gd.github.io/htmloutput/project-brooks-bindery/).
+Documentation coming soon! In the mean time see the brief [description here](http://htmloutput.risd.gd/project-brooks-bindery/).
 
 --
 
